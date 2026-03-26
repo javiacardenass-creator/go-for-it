@@ -1,7 +1,0 @@
-streamlit
-pandas
-plotly
-openpyxl
-python-docx
-Pillow
-kaleido==0.2.1
